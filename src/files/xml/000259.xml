@@ -1,0 +1,9 @@
+<order_detail>
+    <order_id>78</order_id>
+    <customer>Jane Smith</customer>
+    <product>
+        <name>Owl Babies</name>
+        <price>$27</price>
+        <qty>5</qty>
+    </product>
+</order_detail>

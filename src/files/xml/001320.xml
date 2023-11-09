@@ -1,0 +1,9 @@
+<order_detail>
+    <order_id>10</order_id>
+    <customer>John Doe</customer>
+    <product>
+        <name>Hungry Bear</name>
+        <price>$57</price>
+        <qty>2</qty>
+    </product>
+</order_detail>

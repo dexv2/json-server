@@ -1,0 +1,9 @@
+<order_detail>
+    <order_id>36</order_id>
+    <customer>Emily Davis</customer>
+    <product>
+        <name>Grippies Builders</name>
+        <price>$35</price>
+        <qty>2</qty>
+    </product>
+</order_detail>

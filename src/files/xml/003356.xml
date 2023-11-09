@@ -1,0 +1,9 @@
+<order_detail>
+    <order_id>2</order_id>
+    <customer>Robert Johnson</customer>
+    <product>
+        <name>Gingerbread Boy</name>
+        <price>$25</price>
+        <qty>3</qty>
+    </product>
+</order_detail>

@@ -1,0 +1,9 @@
+<order_detail>
+    <order_id>52</order_id>
+    <customer>Sarah Wilson</customer>
+    <product>
+        <name>Motion Stool</name>
+        <price>$55</price>
+        <qty>1</qty>
+    </product>
+</order_detail>
